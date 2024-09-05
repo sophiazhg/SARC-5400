@@ -1,0 +1,14 @@
+{
+  "name": "14ae404f7f9c035f",
+  "main": "14ae404f7f9c035f@35.js",
+  "version": "35.0.0",
+  "homepage": "https://observablehq.com/d/14ae404f7f9c035f",
+  "author": {
+    "name": "SARC 5400",
+    "url": "https://observablehq.com/@sarc5400-sophia-zhang"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
